@@ -5,7 +5,7 @@
     <img src="home/img.svg"/>
 </h1>
 <a href="#" target="_blank">
-  <img src="home/J-JRT.svg" width="1200" alt="Click to see the source" />
+  <img src="home/BLACK.svg" width="1200" alt="Click to see the source" />
 </a>
 
 # 📰 Talking about Information
